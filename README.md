@@ -24,6 +24,9 @@
   <img align="center" height=120em alt="Lebron" src="https://media4.giphy.com/media/2sPzEJNsneIfqfUdYp/giphy.gif?cid=ecf05e47zurfxozdas3ppkaxzpfbuf7ilnvmsu769orn5rvs&rid=giphy.gif&ct=g">
   <img align="center" height=120em alt="Messi" src="https://c.tenor.com/nGNBzEtHm40AAAAC/lionelmessi-messi.gif">  
   <img align="center" height=120em alt="Kobe" src="https://c.tenor.com/zbmItsS87hQAAAAM/kobe-bryant-rip.gif">
+ 
+ ![Snake animation](https://github.com/matheusfidelis/matheusfidelis/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>  
 
  
