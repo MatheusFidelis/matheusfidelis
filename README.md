@@ -21,9 +21,9 @@
   <img align="center" alt="Fidelis-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fidelis-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fidelis-Python" height="50" width="70" margin-right="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height=130em alt="Lebron" src="https://media4.giphy.com/media/2sPzEJNsneIfqfUdYp/giphy.gif?cid=ecf05e47zurfxozdas3ppkaxzpfbuf7ilnvmsu769orn5rvs&rid=giphy.gif&ct=g">
-  <img align="center" height=130em alt="Messi" src="https://c.tenor.com/nGNBzEtHm40AAAAC/lionelmessi-messi.gif">  
-  <img align="center" height=130em alt="Kobe" src="https://c.tenor.com/zbmItsS87hQAAAAM/kobe-bryant-rip.gif">
+  <img align="center" height=120em alt="Lebron" src="https://media4.giphy.com/media/2sPzEJNsneIfqfUdYp/giphy.gif?cid=ecf05e47zurfxozdas3ppkaxzpfbuf7ilnvmsu769orn5rvs&rid=giphy.gif&ct=g">
+  <img align="center" height=120em alt="Messi" src="https://c.tenor.com/nGNBzEtHm40AAAAC/lionelmessi-messi.gif">  
+  <img align="center" height=120em alt="Kobe" src="https://c.tenor.com/zbmItsS87hQAAAAM/kobe-bryant-rip.gif">
 </div>  
 
  
