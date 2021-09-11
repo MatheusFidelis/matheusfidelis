@@ -1,4 +1,4 @@
-## This is Matheus Fidélis 😎 | Isto é Matheus Fidélis 😎
+## This is Matheus Fidélis 😎 Isto é Matheus Fidélis
 
 - 🔭 Front-end web developer intern at Dropsmart
 - 🌱 I’m currently learning JavaScript, ReactJS, CSS and Python
