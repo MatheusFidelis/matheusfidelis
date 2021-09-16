@@ -1,7 +1,7 @@
 ## This is Matheus Fidélis 😎 Isto é Matheus Fidélis
 
 - 🔭 Front-end web developer intern at Dropsmart
-- 🌱 I’m currently learning JavaScript, ReactJS, CSS and Python
+- 🌱 I’m currently learning JavaScript, ReactJS, CSS, Pyhton and Liquid.
 - 🏀 Hobbies: basketball, football (aka soccer) and documentaries/movies/podcasts/videos about sports, history, theology, geopolitics
 - 🧐 Always seeking knowledge
 <h2>💻 You can reach me at:
