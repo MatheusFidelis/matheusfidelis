@@ -25,7 +25,6 @@
   <img align="center" height=120em alt="Kobe" src="https://c.tenor.com/zbmItsS87hQAAAAM/kobe-bryant-rip.gif">
  
  ![Snake animation](https://github.com/matheusfidelis/matheusfidelis/blob/output/github-contribution-grid-snake.svg)
- ![Snake animation](https://github.com/matheusfidelis/ ''' matheusfidelis/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
 
