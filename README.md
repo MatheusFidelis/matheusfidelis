@@ -1,4 +1,4 @@
-## This is Matheus Fidélis 😎 Isto é Matheus Fidélis
+## Matheus Fidélis
 
 - 🌱 I’m currently learning Python and Web Development.
 - 🏀 Hobbies: basketball, football (aka soccer) and documentaries/movies/podcasts/videos about sports and random subjects.
